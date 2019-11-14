@@ -1,12 +1,12 @@
 # Pybullet ur5 equipped with robotiq 140 gripper
 It is tested on Ubuntu 16.04 & python3
 
-##prerequisite
+## prerequisite
 ```
 pip3 install pybullet
 ```
 
-##run
+## run
 ```
 python3 ur5_robotiq140.py
 ```
